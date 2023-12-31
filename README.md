@@ -41,3 +41,6 @@ At the heart of **Cognizant** is the drive to understand and serve the customer 
 - **Urgency Understanding**: Elevated the prioritization process by integrating severity analysis, directly influencing customer trust and loyalty.
 - **The Iterative Imperative**: Embraced the iterative nature of ML, where continuous refinement is not just a strategy, but a philosophy for growth and learning.
 
+
+## 🎬 Demo
+![Demo](https://github.com/MeftohuAhmed/Cognizant/assets/91487090/7260380a-f76f-4d2d-ad46-ae12406b4020)
