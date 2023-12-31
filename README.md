@@ -14,6 +14,16 @@ At the heart of **Cognizant** is the drive to understand and serve the customer 
 - **Model Evaluation**: Assess performance with precision.
 - **Severity Categorization**: Automate urgency assessment to elevate customer service.
 
+## 💻 Technologies Used
+
+| Core Languages & Frameworks | Data Processing & Visualization |
+| --------------------------- | ------------------------------- |
+| **Python** - Foundation code. | **Pandas** - For efficient data manipulation and analysis. |
+| **TensorFlow** - Framework for deep learning models. | **NumPy** - For numerical computations. |
+| **Keras** - For TensorFlow's capabilities. | **Matplotlib & Seaborn** - For creating insightful visualizations. |
+| **Jupyter Notebook** - For live coding. | **Scikit-learn** - For various machine learning tasks. |
+
+
 ## 🛠 Usage
 1. Clone the repository to your local machine:
     ```bash
