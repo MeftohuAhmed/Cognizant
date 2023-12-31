@@ -52,5 +52,24 @@ At the heart of **Cognizant** is the drive to understand and serve the customer 
 - **The Iterative Imperative**: Embraced the iterative nature of ML, where continuous refinement is not just a strategy, but a philosophy for growth and learning.
 
 
-## 🎬 Demo
-![Demo](https://github.com/MeftohuAhmed/Cognizant/assets/91487090/7260380a-f76f-4d2d-ad46-ae12406b4020)
+
+<details>
+  <summary>🎬 Demo</summary>
+
+  ![Demo](https://github.com/MeftohuAhmed/Cognizant/assets/91487090/7ca8012a-ca5e-4685-ae00-0d3f58d73277)
+
+</details>
+
+
+<details>
+  <summary>:chart_with_downwards_trend:Model Loss Progression</summary>
+
+  ![Training and Validation Loss](https://github.com/MeftohuAhmed/Cognizant/blob/48e46f909a33c7cb0026fbadc25c253fe99ba413/Training%20Vs%20Validation.png)
+
+  This chart captures the journey of the NLP model's learning process over successive training epochs. At the outset, we see a sharp decrease in training loss, indicating a quick uptake in learning from the training data. As training progresses, the curve flattens, suggesting that the model is starting to solidify its understanding and approaching an optimal state.
+
+  Concurrently, the validation loss descends along a similar trajectory, affirming that our model is not just memorizing the data but is genuinely developing its predictive capabilities. The steady behavior of the validation loss, closely shadowing the training loss, gives us confidence in the model's ability to generalize to new, unseen data.
+
+  The close proximity of the two curves throughout the training indicates a harmonious balance between learning and generalization, which is exactly what we aim for in a robust predictive model. The graph stands as a testament to the thoughtful architecture and fine-tuning that went into the model's development.
+
+</details>
